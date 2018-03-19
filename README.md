@@ -12,5 +12,4 @@ Create a client app on Instagram <br>
 Uncheck the box to disable implicit OAuth <br>
 Using the Client_ID and REDIRECT_URI create your Acccess Token
 
-### Screenshot
-! [alt text] (https://github.com/dizzymacho/react-native-instagram/assets/instagram-viewer.png)
+
